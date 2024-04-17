@@ -1,0 +1,11 @@
+{
+  "name": "@jshore/prettier-config",
+  "version": "1.0.0",
+  "description": "Jeremiah's personal preference for Prettier configuration.",
+  "main": ".prettierrc.js",
+  "files": [".prettierrc.js"],
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
